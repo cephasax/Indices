@@ -1,0 +1,660 @@
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_10_11.arff
+File: base_perfil_norm_EM_k_10_11.arff - DB index = 1.3478660399389635
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_10_113.arff
+File: base_perfil_norm_EM_k_10_113.arff - DB index = 2.139842828924176
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_10_17.arff
+File: base_perfil_norm_EM_k_10_17.arff - DB index = 1.4101869128709361
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_10_31.arff
+File: base_perfil_norm_EM_k_10_31.arff - DB index = 1.4649035225430223
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_10_97.arff
+File: base_perfil_norm_EM_k_10_97.arff - DB index = 1.443719666059449
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_11_11.arff
+File: base_perfil_norm_EM_k_11_11.arff - DB index = 1.3057038057342325
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_11_113.arff
+File: base_perfil_norm_EM_k_11_113.arff - DB index = 1.61785351672524
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_11_17.arff
+File: base_perfil_norm_EM_k_11_17.arff - DB index = 1.5361996523708925
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_11_31.arff
+File: base_perfil_norm_EM_k_11_31.arff - DB index = 1.5878428867832406
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_11_97.arff
+File: base_perfil_norm_EM_k_11_97.arff - DB index = 1.528402694946101
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_12_11.arff
+File: base_perfil_norm_EM_k_12_11.arff - DB index = 1.4354936540100975
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_12_113.arff
+File: base_perfil_norm_EM_k_12_113.arff - DB index = 1.3957428020379872
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_12_17.arff
+File: base_perfil_norm_EM_k_12_17.arff - DB index = 1.4389171895992667
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_12_31.arff
+File: base_perfil_norm_EM_k_12_31.arff - DB index = 1.3808583315208633
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_12_97.arff
+File: base_perfil_norm_EM_k_12_97.arff - DB index = 1.3971510794755737
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_13_11.arff
+File: base_perfil_norm_EM_k_13_11.arff - DB index = 1.3301175400493424
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_13_113.arff
+File: base_perfil_norm_EM_k_13_113.arff - DB index = 1.4819435259829783
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_13_17.arff
+File: base_perfil_norm_EM_k_13_17.arff - DB index = 1.323182358214782
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_13_31.arff
+File: base_perfil_norm_EM_k_13_31.arff - DB index = 1.3244241371434478
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_13_97.arff
+File: base_perfil_norm_EM_k_13_97.arff - DB index = 1.6694037921078186
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_14_11.arff
+File: base_perfil_norm_EM_k_14_11.arff - DB index = 1.4821495600917132
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_14_113.arff
+File: base_perfil_norm_EM_k_14_113.arff - DB index = 1.3840223471522535
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_14_17.arff
+File: base_perfil_norm_EM_k_14_17.arff - DB index = 1.398605962146044
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_14_31.arff
+File: base_perfil_norm_EM_k_14_31.arff - DB index = 1.403175747372383
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_14_97.arff
+File: base_perfil_norm_EM_k_14_97.arff - DB index = 1.3997465053924238
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_15_11.arff
+File: base_perfil_norm_EM_k_15_11.arff - DB index = 1.3037012966842052
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_15_113.arff
+File: base_perfil_norm_EM_k_15_113.arff - DB index = 2.0905448082406988
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_15_17.arff
+File: base_perfil_norm_EM_k_15_17.arff - DB index = 1.376024216418428
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_15_31.arff
+File: base_perfil_norm_EM_k_15_31.arff - DB index = 1.328880205800507
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_15_97.arff
+File: base_perfil_norm_EM_k_15_97.arff - DB index = 1.3489279121353392
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_16_11.arff
+File: base_perfil_norm_EM_k_16_11.arff - DB index = 1.3766715081445267
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_16_113.arff
+File: base_perfil_norm_EM_k_16_113.arff - DB index = 1.3256296919684905
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_16_17.arff
+File: base_perfil_norm_EM_k_16_17.arff - DB index = 1.379732390692451
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_16_31.arff
+File: base_perfil_norm_EM_k_16_31.arff - DB index = 1.3471231243328654
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_16_97.arff
+File: base_perfil_norm_EM_k_16_97.arff - DB index = 1.3973714833860158
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_17_11.arff
+File: base_perfil_norm_EM_k_17_11.arff - DB index = 1.3567205272761118
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_17_113.arff
+File: base_perfil_norm_EM_k_17_113.arff - DB index = 1.361271893170417
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_17_17.arff
+File: base_perfil_norm_EM_k_17_17.arff - DB index = 1.544712394490205
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_17_31.arff
+File: base_perfil_norm_EM_k_17_31.arff - DB index = 1.3216720187524498
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_17_97.arff
+File: base_perfil_norm_EM_k_17_97.arff - DB index = 1.3176893587617222
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_18_11.arff
+File: base_perfil_norm_EM_k_18_11.arff - DB index = 1.6498390524870281
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_18_113.arff
+File: base_perfil_norm_EM_k_18_113.arff - DB index = 1.3534079214475385
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_18_17.arff
+File: base_perfil_norm_EM_k_18_17.arff - DB index = 1.33930250997446
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_18_31.arff
+File: base_perfil_norm_EM_k_18_31.arff - DB index = 1.5511856380783877
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_18_97.arff
+File: base_perfil_norm_EM_k_18_97.arff - DB index = 1.299475491105382
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_19_11.arff
+File: base_perfil_norm_EM_k_19_11.arff - DB index = 1.643202181341934
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_19_113.arff
+File: base_perfil_norm_EM_k_19_113.arff - DB index = 1.622530299374211
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_19_17.arff
+File: base_perfil_norm_EM_k_19_17.arff - DB index = 1.628736245165084
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_19_31.arff
+File: base_perfil_norm_EM_k_19_31.arff - DB index = 1.4757798037641967
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_19_97.arff
+File: base_perfil_norm_EM_k_19_97.arff - DB index = 1.6199363970676064
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_20_11.arff
+File: base_perfil_norm_EM_k_20_11.arff - DB index = 1.5347979576606492
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_20_113.arff
+File: base_perfil_norm_EM_k_20_113.arff - DB index = 1.6003379821837302
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_20_17.arff
+File: base_perfil_norm_EM_k_20_17.arff - DB index = 1.4800445598459746
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_20_31.arff
+File: base_perfil_norm_EM_k_20_31.arff - DB index = 1.5455516125747604
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_20_97.arff
+File: base_perfil_norm_EM_k_20_97.arff - DB index = 1.4992546887495295
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_21_11.arff
+File: base_perfil_norm_EM_k_21_11.arff - DB index = 1.5493535830565428
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_21_113.arff
+File: base_perfil_norm_EM_k_21_113.arff - DB index = 1.4835576168522147
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_21_17.arff
+File: base_perfil_norm_EM_k_21_17.arff - DB index = 1.542762549457521
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_21_31.arff
+File: base_perfil_norm_EM_k_21_31.arff - DB index = 1.423548442046204
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_21_97.arff
+File: base_perfil_norm_EM_k_21_97.arff - DB index = 1.466929480053842
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_2_11.arff
+File: base_perfil_norm_EM_k_2_11.arff - DB index = 1.0449437089174638
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_2_113.arff
+File: base_perfil_norm_EM_k_2_113.arff - DB index = 1.0449437089174638
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_2_17.arff
+File: base_perfil_norm_EM_k_2_17.arff - DB index = 1.0449437089174638
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_2_31.arff
+File: base_perfil_norm_EM_k_2_31.arff - DB index = 1.0449437089174638
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_2_97.arff
+File: base_perfil_norm_EM_k_2_97.arff - DB index = 1.0449437089174638
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_3_11.arff
+File: base_perfil_norm_EM_k_3_11.arff - DB index = 1.1213625879731417
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_3_113.arff
+File: base_perfil_norm_EM_k_3_113.arff - DB index = 1.1213625879731417
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_3_17.arff
+File: base_perfil_norm_EM_k_3_17.arff - DB index = 1.1213625879731417
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_3_31.arff
+File: base_perfil_norm_EM_k_3_31.arff - DB index = 1.1213625879731417
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_3_97.arff
+File: base_perfil_norm_EM_k_3_97.arff - DB index = 1.1213625879731417
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_4_11.arff
+File: base_perfil_norm_EM_k_4_11.arff - DB index = 1.1921961363754248
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_4_113.arff
+File: base_perfil_norm_EM_k_4_113.arff - DB index = 1.1921961363754248
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_4_17.arff
+File: base_perfil_norm_EM_k_4_17.arff - DB index = 1.1921961363754248
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_4_31.arff
+File: base_perfil_norm_EM_k_4_31.arff - DB index = 1.1923461433346112
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_4_97.arff
+File: base_perfil_norm_EM_k_4_97.arff - DB index = 1.1921961363754248
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_5_11.arff
+File: base_perfil_norm_EM_k_5_11.arff - DB index = 1.4501507158867983
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_5_113.arff
+File: base_perfil_norm_EM_k_5_113.arff - DB index = 1.4501507158867986
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_5_17.arff
+File: base_perfil_norm_EM_k_5_17.arff - DB index = 1.4533918476371301
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_5_31.arff
+File: base_perfil_norm_EM_k_5_31.arff - DB index = 1.451874713766071
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_5_97.arff
+File: base_perfil_norm_EM_k_5_97.arff - DB index = 1.4643816107466823
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_6_11.arff
+File: base_perfil_norm_EM_k_6_11.arff - DB index = 1.4100040126813298
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_6_113.arff
+File: base_perfil_norm_EM_k_6_113.arff - DB index = 1.4100040126813298
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_6_17.arff
+File: base_perfil_norm_EM_k_6_17.arff - DB index = 1.4100040126813298
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_6_31.arff
+File: base_perfil_norm_EM_k_6_31.arff - DB index = 1.4100040126813298
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_6_97.arff
+File: base_perfil_norm_EM_k_6_97.arff - DB index = 1.4100040126813298
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_7_11.arff
+File: base_perfil_norm_EM_k_7_11.arff - DB index = 1.4835870523283075
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_7_113.arff
+File: base_perfil_norm_EM_k_7_113.arff - DB index = 1.4835870523283075
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_7_17.arff
+File: base_perfil_norm_EM_k_7_17.arff - DB index = 1.4835870523283075
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_7_31.arff
+File: base_perfil_norm_EM_k_7_31.arff - DB index = 1.4835870523283072
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_7_97.arff
+File: base_perfil_norm_EM_k_7_97.arff - DB index = 1.4835870523283072
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_8_11.arff
+File: base_perfil_norm_EM_k_8_11.arff - DB index = 1.3727756620217135
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_8_113.arff
+File: base_perfil_norm_EM_k_8_113.arff - DB index = 1.3726867321982552
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_8_17.arff
+File: base_perfil_norm_EM_k_8_17.arff - DB index = 1.371660654201313
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_8_31.arff
+File: base_perfil_norm_EM_k_8_31.arff - DB index = 1.3716606542013132
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_8_97.arff
+File: base_perfil_norm_EM_k_8_97.arff - DB index = 1.3750452143730512
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_9_11.arff
+File: base_perfil_norm_EM_k_9_11.arff - DB index = 1.4942887336806507
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_9_113.arff
+File: base_perfil_norm_EM_k_9_113.arff - DB index = 1.3313704352449767
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_9_17.arff
+File: base_perfil_norm_EM_k_9_17.arff - DB index = 1.331370435244977
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_9_31.arff
+File: base_perfil_norm_EM_k_9_31.arff - DB index = 1.3311921428755973
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_EM_k_9_97.arff
+File: base_perfil_norm_EM_k_9_97.arff - DB index = 1.3314831921783061
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_hierar_k_10.arff
+File: base_perfil_norm_hierar_k_10.arff - DB index = 1.5464879936372378
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_hierar_k_11.arff
+File: base_perfil_norm_hierar_k_11.arff - DB index = 1.4950233465734413
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_hierar_k_12.arff
+File: base_perfil_norm_hierar_k_12.arff - DB index = 1.585215199920543
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_hierar_k_13.arff
+File: base_perfil_norm_hierar_k_13.arff - DB index = 1.6337053273662219
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_hierar_k_14.arff
+File: base_perfil_norm_hierar_k_14.arff - DB index = 1.5202338169767575
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_hierar_k_15.arff
+File: base_perfil_norm_hierar_k_15.arff - DB index = 1.4960469872513678
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_hierar_k_16.arff
+File: base_perfil_norm_hierar_k_16.arff - DB index = 1.4582174351844863
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_hierar_k_17.arff
+File: base_perfil_norm_hierar_k_17.arff - DB index = 1.4811045536495675
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_hierar_k_18.arff
+File: base_perfil_norm_hierar_k_18.arff - DB index = 1.496719265012161
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_hierar_k_19.arff
+File: base_perfil_norm_hierar_k_19.arff - DB index = 1.5089170849393427
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_hierar_k_2.arff
+File: base_perfil_norm_hierar_k_2.arff - DB index = 1.1312495191008916
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_hierar_k_20.arff
+File: base_perfil_norm_hierar_k_20.arff - DB index = 1.461147184746427
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_hierar_k_21.arff
+File: base_perfil_norm_hierar_k_21.arff - DB index = 1.437517692808479
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_hierar_k_3.arff
+File: base_perfil_norm_hierar_k_3.arff - DB index = 1.2067109494492412
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_hierar_k_4.arff
+File: base_perfil_norm_hierar_k_4.arff - DB index = 1.581598584094932
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_hierar_k_5.arff
+File: base_perfil_norm_hierar_k_5.arff - DB index = 1.588445426965467
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_hierar_k_6.arff
+File: base_perfil_norm_hierar_k_6.arff - DB index = 1.5540180777878465
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_hierar_k_7.arff
+File: base_perfil_norm_hierar_k_7.arff - DB index = 1.5246950102798482
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_hierar_k_8.arff
+File: base_perfil_norm_hierar_k_8.arff - DB index = 1.449339022170489
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_hierar_k_9.arff
+File: base_perfil_norm_hierar_k_9.arff - DB index = 1.306130270371358
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_10_11.arff
+File: base_perfil_norm_kmeans_k_10_11.arff - DB index = 1.0710826781275289
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_10_113.arff
+File: base_perfil_norm_kmeans_k_10_113.arff - DB index = 1.4904673314771555
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_10_17.arff
+File: base_perfil_norm_kmeans_k_10_17.arff - DB index = 1.6081389058964095
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_10_31.arff
+File: base_perfil_norm_kmeans_k_10_31.arff - DB index = 1.0876750343781958
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_10_97.arff
+File: base_perfil_norm_kmeans_k_10_97.arff - DB index = 1.4544453276804743
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_11_11.arff
+File: base_perfil_norm_kmeans_k_11_11.arff - DB index = 1.0334361547006246
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_11_113.arff
+File: base_perfil_norm_kmeans_k_11_113.arff - DB index = 1.4073145336839394
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_11_17.arff
+File: base_perfil_norm_kmeans_k_11_17.arff - DB index = 1.5824446668320264
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_11_31.arff
+File: base_perfil_norm_kmeans_k_11_31.arff - DB index = 1.0655701093828742
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_11_97.arff
+File: base_perfil_norm_kmeans_k_11_97.arff - DB index = 1.398418511843952
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_12_11.arff
+File: base_perfil_norm_kmeans_k_12_11.arff - DB index = 0.9865180001791821
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_12_113.arff
+File: base_perfil_norm_kmeans_k_12_113.arff - DB index = 1.50604175755986
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_12_17.arff
+File: base_perfil_norm_kmeans_k_12_17.arff - DB index = 1.4930970061614692
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_12_31.arff
+File: base_perfil_norm_kmeans_k_12_31.arff - DB index = 1.0200721297901372
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_12_97.arff
+File: base_perfil_norm_kmeans_k_12_97.arff - DB index = 1.3143951125931599
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_13_11.arff
+File: base_perfil_norm_kmeans_k_13_11.arff - DB index = 1.00525389856141
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_13_113.arff
+File: base_perfil_norm_kmeans_k_13_113.arff - DB index = 1.3928701948584292
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_13_17.arff
+File: base_perfil_norm_kmeans_k_13_17.arff - DB index = 1.4569347713537188
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_13_31.arff
+File: base_perfil_norm_kmeans_k_13_31.arff - DB index = 0.9755056458408298
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_13_97.arff
+File: base_perfil_norm_kmeans_k_13_97.arff - DB index = 1.4273851560303699
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_14_11.arff
+File: base_perfil_norm_kmeans_k_14_11.arff - DB index = 0.9946010497278149
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_14_113.arff
+File: base_perfil_norm_kmeans_k_14_113.arff - DB index = 1.3349705949224386
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_14_17.arff
+File: base_perfil_norm_kmeans_k_14_17.arff - DB index = 1.4196047292809741
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_14_31.arff
+File: base_perfil_norm_kmeans_k_14_31.arff - DB index = 0.9660996776769298
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_14_97.arff
+File: base_perfil_norm_kmeans_k_14_97.arff - DB index = 1.2149622790267642
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_15_11.arff
+File: base_perfil_norm_kmeans_k_15_11.arff - DB index = 1.3743077463984297
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_15_113.arff
+File: base_perfil_norm_kmeans_k_15_113.arff - DB index = 1.270999380346646
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_15_17.arff
+File: base_perfil_norm_kmeans_k_15_17.arff - DB index = 1.4927375547398347
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_15_31.arff
+File: base_perfil_norm_kmeans_k_15_31.arff - DB index = 1.2193619810552407
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_15_97.arff
+File: base_perfil_norm_kmeans_k_15_97.arff - DB index = 1.2002811297591236
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_16_11.arff
+File: base_perfil_norm_kmeans_k_16_11.arff - DB index = 1.1850377657701985
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_16_113.arff
+File: base_perfil_norm_kmeans_k_16_113.arff - DB index = 1.2874033362787807
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_16_17.arff
+File: base_perfil_norm_kmeans_k_16_17.arff - DB index = 1.3387970074868065
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_16_31.arff
+File: base_perfil_norm_kmeans_k_16_31.arff - DB index = 1.254398018815964
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_16_97.arff
+File: base_perfil_norm_kmeans_k_16_97.arff - DB index = 1.209488024956269
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_17_11.arff
+File: base_perfil_norm_kmeans_k_17_11.arff - DB index = 1.1535660410773134
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_17_113.arff
+File: base_perfil_norm_kmeans_k_17_113.arff - DB index = 1.220927443533843
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_17_17.arff
+File: base_perfil_norm_kmeans_k_17_17.arff - DB index = 1.3844013030099906
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_17_31.arff
+File: base_perfil_norm_kmeans_k_17_31.arff - DB index = 1.0612973364817104
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_17_97.arff
+File: base_perfil_norm_kmeans_k_17_97.arff - DB index = 1.1887989423268317
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_18_11.arff
+File: base_perfil_norm_kmeans_k_18_11.arff - DB index = 1.4296826704693752
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_18_113.arff
+File: base_perfil_norm_kmeans_k_18_113.arff - DB index = 1.1014679428715044
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_18_17.arff
+File: base_perfil_norm_kmeans_k_18_17.arff - DB index = 1.075580290464584
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_18_31.arff
+File: base_perfil_norm_kmeans_k_18_31.arff - DB index = 1.0292924434198367
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_18_97.arff
+File: base_perfil_norm_kmeans_k_18_97.arff - DB index = 0.9162518375034855
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_19_11.arff
+File: base_perfil_norm_kmeans_k_19_11.arff - DB index = 1.1605516649880545
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_19_113.arff
+File: base_perfil_norm_kmeans_k_19_113.arff - DB index = 1.1087796145491544
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_19_17.arff
+File: base_perfil_norm_kmeans_k_19_17.arff - DB index = 1.0314571765403995
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_19_31.arff
+File: base_perfil_norm_kmeans_k_19_31.arff - DB index = 1.024514761327402
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_19_97.arff
+File: base_perfil_norm_kmeans_k_19_97.arff - DB index = 0.9874446963648126
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_20_11.arff
+File: base_perfil_norm_kmeans_k_20_11.arff - DB index = 1.1128803037222528
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_20_113.arff
+File: base_perfil_norm_kmeans_k_20_113.arff - DB index = 1.1603078155567417
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_20_17.arff
+File: base_perfil_norm_kmeans_k_20_17.arff - DB index = 1.0135702780307854
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_20_31.arff
+File: base_perfil_norm_kmeans_k_20_31.arff - DB index = 0.9714717088828746
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_20_97.arff
+File: base_perfil_norm_kmeans_k_20_97.arff - DB index = 1.0047593229671754
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_21_11.arff
+File: base_perfil_norm_kmeans_k_21_11.arff - DB index = 1.1800227076483334
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_21_113.arff
+File: base_perfil_norm_kmeans_k_21_113.arff - DB index = 1.1618378177937625
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_21_17.arff
+File: base_perfil_norm_kmeans_k_21_17.arff - DB index = 0.9983094370202801
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_21_31.arff
+File: base_perfil_norm_kmeans_k_21_31.arff - DB index = 0.9757420961913967
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_21_97.arff
+File: base_perfil_norm_kmeans_k_21_97.arff - DB index = 0.9481649231925677
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_2_11.arff
+File: base_perfil_norm_kmeans_k_2_11.arff - DB index = 1.0370508222591315
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_2_113.arff
+File: base_perfil_norm_kmeans_k_2_113.arff - DB index = 1.0372749703983082
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_2_17.arff
+File: base_perfil_norm_kmeans_k_2_17.arff - DB index = 1.0370508222591315
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_2_31.arff
+File: base_perfil_norm_kmeans_k_2_31.arff - DB index = 1.0370508222591315
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_2_97.arff
+File: base_perfil_norm_kmeans_k_2_97.arff - DB index = 1.0370508222591315
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_3_11.arff
+File: base_perfil_norm_kmeans_k_3_11.arff - DB index = 0.995319103788206
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_3_113.arff
+File: base_perfil_norm_kmeans_k_3_113.arff - DB index = 0.995319103788206
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_3_17.arff
+File: base_perfil_norm_kmeans_k_3_17.arff - DB index = 0.9950440935931382
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_3_31.arff
+File: base_perfil_norm_kmeans_k_3_31.arff - DB index = 0.995319103788206
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_3_97.arff
+File: base_perfil_norm_kmeans_k_3_97.arff - DB index = 0.9950440935931382
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_4_11.arff
+File: base_perfil_norm_kmeans_k_4_11.arff - DB index = 1.1505257077186846
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_4_113.arff
+File: base_perfil_norm_kmeans_k_4_113.arff - DB index = 1.1499708072832235
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_4_17.arff
+File: base_perfil_norm_kmeans_k_4_17.arff - DB index = 1.1460615921815738
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_4_31.arff
+File: base_perfil_norm_kmeans_k_4_31.arff - DB index = 1.1499708072832235
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_4_97.arff
+File: base_perfil_norm_kmeans_k_4_97.arff - DB index = 1.146061592181574
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_5_11.arff
+File: base_perfil_norm_kmeans_k_5_11.arff - DB index = 1.083626014864895
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_5_113.arff
+File: base_perfil_norm_kmeans_k_5_113.arff - DB index = 1.0836260148648953
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_5_17.arff
+File: base_perfil_norm_kmeans_k_5_17.arff - DB index = 1.1679180467460628
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_5_31.arff
+File: base_perfil_norm_kmeans_k_5_31.arff - DB index = 1.1691764289404931
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_5_97.arff
+File: base_perfil_norm_kmeans_k_5_97.arff - DB index = 1.17315337169582
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_6_11.arff
+File: base_perfil_norm_kmeans_k_6_11.arff - DB index = 1.0188629557535716
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_6_113.arff
+File: base_perfil_norm_kmeans_k_6_113.arff - DB index = 1.121583748545495
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_6_17.arff
+File: base_perfil_norm_kmeans_k_6_17.arff - DB index = 1.1667319486097705
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_6_31.arff
+File: base_perfil_norm_kmeans_k_6_31.arff - DB index = 1.1233952686132525
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_6_97.arff
+File: base_perfil_norm_kmeans_k_6_97.arff - DB index = 1.1215254474479848
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_7_11.arff
+File: base_perfil_norm_kmeans_k_7_11.arff - DB index = 1.0955823754973428
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_7_113.arff
+File: base_perfil_norm_kmeans_k_7_113.arff - DB index = 1.0967711572974443
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_7_17.arff
+File: base_perfil_norm_kmeans_k_7_17.arff - DB index = 1.0949791357436904
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_7_31.arff
+File: base_perfil_norm_kmeans_k_7_31.arff - DB index = 1.0972932965213005
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_7_97.arff
+File: base_perfil_norm_kmeans_k_7_97.arff - DB index = 1.0971236577057717
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_8_11.arff
+File: base_perfil_norm_kmeans_k_8_11.arff - DB index = 1.101918435508997
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_8_113.arff
+File: base_perfil_norm_kmeans_k_8_113.arff - DB index = 1.6660367924413393
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_8_17.arff
+File: base_perfil_norm_kmeans_k_8_17.arff - DB index = 1.0813908759171877
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_8_31.arff
+File: base_perfil_norm_kmeans_k_8_31.arff - DB index = 1.0737471496661752
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_8_97.arff
+File: base_perfil_norm_kmeans_k_8_97.arff - DB index = 1.07349176771454
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_9_11.arff
+File: base_perfil_norm_kmeans_k_9_11.arff - DB index = 1.1206306428007133
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_9_113.arff
+File: base_perfil_norm_kmeans_k_9_113.arff - DB index = 1.4701035988744362
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_9_17.arff
+File: base_perfil_norm_kmeans_k_9_17.arff - DB index = 1.677388436597465
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_9_31.arff
+File: base_perfil_norm_kmeans_k_9_31.arff - DB index = 1.1141557945612004
+------------------------------------------------------------------------------
+C:\Users\Cephas\Google Drive\Pessoal\Mestrado\Dissertacao\dados\experimento_perfil\bases\modificadas\final_exp\perfil\base_perfil_norm_kmeans_k_9_97.arff
+File: base_perfil_norm_kmeans_k_9_97.arff - DB index = 1.0305277440592262
+------------------------------------------------------------------------------
