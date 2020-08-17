@@ -1,3 +1,0 @@
-base_controle_EM_k_12_11.arff: 1.480599320141953
-base_controle_EM_k_12_17.arff: 1.3363143615479853
-base_controle_EM_k_12_31.arff: 1.5394418038279527

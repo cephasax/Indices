@@ -14,7 +14,7 @@ public class Sillhouette {
 
 	private static void AbrirTodos() {
 		
-		String url = "C:\\Users\\Cephas\\Google Drive\\Pessoal\\Mestrado\\Dissertacao\\dados\\experimento_perfil\\bases\\modificadas\\final_exp\\controle";
+		String url = "";
 		
 		JFileChooser chooser = null;
 		chooser = new JFileChooser( url );
@@ -34,7 +34,7 @@ public class Sillhouette {
 			out += CalcSilhouette.CalcularSilhouette(files[i]);
 		}
 		
-		File saida = new File("SillhouetteControle.txt");
+		File saida = new File("Sillhouette_p3_noId.txt");
 		
 		FileOutputStream fos = new FileOutputStream(saida);    
         fos.write(out.toString().getBytes());  

@@ -13,7 +13,7 @@ import weka.core.SparseInstance;
 public class CalcDB {
 
 
-	public String calcularDB(File file) throws IOException {
+	public static String calcularDB(File file) throws IOException {
 				
 		FileInputStream inFile = new FileInputStream(file);
 		InputStreamReader in = new InputStreamReader(inFile);
@@ -21,12 +21,11 @@ public class CalcDB {
 		base.setClassIndex(base.numAttributes() - 1);
 		Mensurably<Instance> difference = new Difference();
 		String saida = new String(file.getName() + ": " + daviesBouldin(base, difference));
-		
 		return saida;
 		
 	}
 
- 	private double daviesBouldin(Instances base, Mensurably<Instance> difference) {
+ 	private static double daviesBouldin(Instances base, Mensurably<Instance> difference) {
 		Instances[] group = new Instances[base.numClasses()];
 		for (int i = 0; i < group.length; i++) {
 			group[i] = new Instances(base, 0);
@@ -39,7 +38,7 @@ public class CalcDB {
 		double[] E = new double[group.length];
 		Instance[] center = new Instance[group.length];
 		for (int i = 0; i < group.length; i++) {
-			center[i] = this.center(group[i]);
+			center[i] = center(group[i]);
 			center[i].setDataset(group[i]);
 			E[i] = medianSquaredDistance(group[i], center[i], difference);
 		}
@@ -51,7 +50,7 @@ public class CalcDB {
 		return db / (double) group.length;
 	}
 
-	protected double mrs(int index, double[] E, Instance[] center, Mensurably<Instance> groupDistance) {
+	protected static double mrs(int index, double[] E, Instance[] center, Mensurably<Instance> groupDistance) {
 		double max = Double.NEGATIVE_INFINITY;
 		for (int i = 0; i < center.length; i++) {
 			if (i != index) {
@@ -64,18 +63,18 @@ public class CalcDB {
 		return max;
 	}
 
-	protected double rs(double E1, double E2, Instance center1, Instance center2, Mensurably<Instance> groupDistance) {
+	protected static double rs(double E1, double E2, Instance center1, Instance center2, Mensurably<Instance> groupDistance) {
 		return (E1 + E2) / (groupDistance.distance(center1, center2));
 	}
 
-	protected double medianSquaredDistance(Instances base, Instance center, Mensurably<Instance> difference) {
+	protected static double medianSquaredDistance(Instances base, Instance center, Mensurably<Instance> difference) {
 		double median = 0;
 		for (int i = 0; i < base.numInstances(); i++)
 			median += Math.pow(difference.distance(base.instance(i), center), 2);
 		return median / (double) base.numInstances();
 	}
 
-	protected Instance center(Instances base) {
+	protected static Instance center(Instances base) {
 		Instance center = new SparseInstance(base.firstInstance());
 		for (int i = 0; i < base.numAttributes(); i++) {
 			if (base.attribute(i).isNominal())
@@ -89,21 +88,21 @@ public class CalcDB {
 		return center;
 	}
 
-	protected double moda(Instances base, Attribute att) {
+	protected static double moda(Instances base, Attribute att) {
 		double[] count = new double[att.numValues()];
 		for (int i = 0; i < base.numInstances(); i++)
 			count[(int) base.instance(i).value(att)]++;
 		return maxIndex(count);
 	}
 
-	protected double median(Instances base, Attribute att) {
+	protected static double median(Instances base, Attribute att) {
 		double median = 0;
 		for (int i = 0; i < base.numInstances(); i++)
 			median += base.instance(i).value(att);
 		return median / (double) base.numInstances();
 	}
 
-	private int maxIndex(double... values) {
+	private static int maxIndex(double... values) {
 		int max = 0;
 		for (int i = 1; i < values.length; i++)
 			if (values[i] > values[max])

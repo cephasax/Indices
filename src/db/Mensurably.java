@@ -1,5 +1,5 @@
 package db;
 
-public interface Mensurably<Instance> {
-	public double distance(Instance a, Instance b);
+public interface Mensurably<T> {
+	public double distance(T a, T b);
 }
