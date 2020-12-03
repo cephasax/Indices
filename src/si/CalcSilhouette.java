@@ -48,34 +48,67 @@ public class CalcSilhouette{
     		
     		if (i == j) continue;
     		
-    		//cluster começando em 1
-    		try{
-        		if (base.get(i).stringValue(indice).equalsIgnoreCase(base.get(j).stringValue(indice))){
-        			matDist[i][0] += 
-        					Distancia (base.instance(i), base.instance(j)) / 
-        			        (qtd[Integer.parseInt(base.get(i).stringValue(indice).substring(7)) -1 ] - 1); 
-        		}
-        		else {
-        			matDist[i][Integer.parseInt(base.get(j).stringValue(indice).substring(7))] += 
-        					Distancia (base.instance(i), base.instance(j)) /
-        			        qtd[Integer.parseInt(base.get(j).stringValue(indice).substring(7)) -1 ];
-        		}
+    		//agrupamentos com o atributo cluster com uma string iniciada por "cluster"
+    		if(base.instance(i).stringValue(indice).contains("cluster")) {
+	    		//cluster começando em 1
+	    		try{
+	        		if (base.get(i).stringValue(indice).equalsIgnoreCase(base.get(j).stringValue(indice))){
+	        			matDist[i][0] += 
+	        					Distancia (base.instance(i), base.instance(j)) / 
+	        			        (qtd[Integer.parseInt(base.get(i).stringValue(indice).substring(7)) -1 ] - 1); 
+	        		}
+	        		else {
+	        			matDist[i][Integer.parseInt(base.get(j).stringValue(indice).substring(7))] += 
+	        					Distancia (base.instance(i), base.instance(j)) /
+	        			        qtd[Integer.parseInt(base.get(j).stringValue(indice).substring(7)) -1 ];
+	        		}
+	    		}
+	    		//cluster começando em 0
+	    		catch (Exception e) {
+	  
+	        		if (base.get(i).stringValue(indice).equalsIgnoreCase(base.get(j).stringValue(indice))){
+	        			matDist[i][0] += 
+	    					Distancia (base.instance(i), base.instance(j)) / 
+	    			        (qtd[Integer.parseInt(base.get(i).stringValue(indice).substring(7))] - 1); 
+	        		}
+	        		else {
+	        			matDist[i][Integer.parseInt(base.get(j).stringValue(indice).substring(7))+1] += 
+	    					Distancia (base.instance(i), base.instance(j)) /
+	    			        qtd[Integer.parseInt(base.get(j).stringValue(indice).substring(7))];
+	        		}
+				}
     		}
-    		//cluster começando em 0
-    		catch (Exception e) {
-  
-        		if (base.get(i).stringValue(indice).equalsIgnoreCase(base.get(j).stringValue(indice))){
-        			matDist[i][0] += 
-    					Distancia (base.instance(i), base.instance(j)) / 
-    			        (qtd[Integer.parseInt(base.get(i).stringValue(indice).substring(7))] - 1); 
-        		}
-        		else {
-        			matDist[i][Integer.parseInt(base.get(j).stringValue(indice).substring(7))+1] += 
-    					Distancia (base.instance(i), base.instance(j)) /
-    			        qtd[Integer.parseInt(base.get(j).stringValue(indice).substring(7))];
-        		}
-			}
     		
+    		//agrupamentos com o atributo cluster representado apenas pelo numero do cluster
+    		else {
+    			//cluster começando em 1
+    			try{
+	        		if (base.get(i).stringValue(indice).equalsIgnoreCase(base.get(j).stringValue(indice))){
+	        			matDist[i][0] += 
+	        					Distancia (base.instance(i), base.instance(j)) / 
+	        			        (qtd[Integer.parseInt(base.get(i).stringValue(indice)) -1 ] - 1); 
+	        		}
+	        		else {
+	        			matDist[i][Integer.parseInt(base.get(j).stringValue(indice))] += 
+	        					Distancia (base.instance(i), base.instance(j)) /
+	        			        qtd[Integer.parseInt(base.get(j).stringValue(indice)) -1 ];
+	        		}
+	    		}
+	    		//cluster começando em 0
+	    		catch (Exception e) {
+	  
+	        		if (base.get(i).stringValue(indice).equalsIgnoreCase(base.get(j).stringValue(indice))){
+	        			matDist[i][0] += 
+	    					Distancia (base.instance(i), base.instance(j)) / 
+	    			        (qtd[Integer.parseInt(base.get(i).stringValue(indice))] - 1); 
+	        		}
+	        		else {
+	        			matDist[i][Integer.parseInt(base.get(j).stringValue(indice))+1] += 
+	    					Distancia (base.instance(i), base.instance(j)) /
+	    			        qtd[Integer.parseInt(base.get(j).stringValue(indice))];
+	        		}
+				}
+    		}
     		
     	}
     }
@@ -111,7 +144,7 @@ public class CalcSilhouette{
     	//output +="Silhouette cluster" + (i) +  ": " + df.format(silhouette[i]) + "\n";
     	
     	//Mudança para saída em linhas
-    	output += + (i) +  ": " + df.format(silhouette[i]) + "|";
+    	output += + (i) +  ": " + df.format(silhouette[i]) + " | ";
     }
     
     //output += "File: " + fileAtual.getName() + " - Silhouette Geral: " + df.format(silhouette[base.numClasses()]) + "\n";

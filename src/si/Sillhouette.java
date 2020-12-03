@@ -34,7 +34,7 @@ public class Sillhouette {
 			out += CalcSilhouette.CalcularSilhouette(files[i]);
 		}
 		
-		File saida = new File("Sillhouette_p3_noId.txt");
+		File saida = new File("Sillhouette_dbscan_nut.txt");
 		
 		FileOutputStream fos = new FileOutputStream(saida);    
         fos.write(out.toString().getBytes());  
