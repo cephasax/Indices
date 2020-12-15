@@ -4,6 +4,7 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.text.DecimalFormat;
 
 import weka.core.Attribute;
 import weka.core.Instance;
@@ -14,13 +15,16 @@ public class CalcDB {
 
 
 	public static String calcularDB(File file) throws IOException {
-				
+		
+		DecimalFormat df = new DecimalFormat();
+		df.setMinimumFractionDigits(4);
+		
 		FileInputStream inFile = new FileInputStream(file);
 		InputStreamReader in = new InputStreamReader(inFile);
 		Instances base = new Instances(in);
 		base.setClassIndex(base.numAttributes() - 1);
 		Mensurably<Instance> difference = new Difference();
-		String saida = new String(file.getName() + ": " + daviesBouldin(base, difference));
+		String saida = new String(df.format(daviesBouldin(base, difference)));
 		return saida;
 		
 	}

@@ -21,7 +21,9 @@ public class CalcSilhouette{
 	
 	public static String CalcularSilhouette(File file) throws IOException {
 	
-	String output = "";
+	StringBuilder sbIni = new StringBuilder();
+	StringBuilder sbFim = new StringBuilder();
+	
 	DecimalFormat df = new DecimalFormat();
 	df.setMinimumFractionDigits(4);
 	
@@ -138,22 +140,23 @@ public class CalcSilhouette{
     //output += file.getName() + "\n";
     
     //Mudança para saída em linhas
-    output += file.getName() + " : ";
+    sbIni.append(file.getName() + ";");
     
     for (int i=0; i < silhouette.length - 1; i++){
     	//output +="Silhouette cluster" + (i) +  ": " + df.format(silhouette[i]) + "\n";
     	
     	//Mudança para saída em linhas
-    	output += + (i) +  ": " + df.format(silhouette[i]) + " | ";
+    	sbFim.append(";" + df.format(silhouette[i]));
     }
     
     //output += "File: " + fileAtual.getName() + " - Silhouette Geral: " + df.format(silhouette[base.numClasses()]) + "\n";
     //output += "-----------------------------------------------------------------------------------" + "\n";
-    
-    //Mudança para saída em linhas
-    output += "geral: " + df.format(silhouette[base.numClasses()]) + "\n";
 
-	return output;
+    //Mudança para saída em linhas
+    sbIni.append(df.format(silhouette[base.numClasses()]));
+    sbIni.append(sbFim.toString());
+    
+	return sbIni.toString();
 }
 
 	private static double Calcula_bi(int i) {

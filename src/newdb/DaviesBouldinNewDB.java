@@ -5,6 +5,7 @@ import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -15,7 +16,12 @@ import file.FiltraExtensoes;
 import weka.core.Instance;
 import weka.core.Instances;
 
-public class DaviesBouldin {
+/**
+ * 
+ * @author usa a implementação de Netinho
+ *
+ */
+public class DaviesBouldinNewDB {
 	
 
 	private static List<File> AbrirTodos() {		
@@ -44,6 +50,9 @@ public class DaviesBouldin {
 		List<Instance> listInstances;
 		DBCalculator dbc = new DBCalculator();
 		
+		DecimalFormat df = new DecimalFormat();
+		df.setMinimumFractionDigits(4);
+		
 		//CalcDB cdb = new CalcDB();
 		//Calcular DB p/ os arquivos selecionados
 		for(File file: files) {
@@ -53,11 +62,11 @@ public class DaviesBouldin {
 			base = new Instances(in);
 			base.setClassIndex(base.numAttributes() - 1);
 			listInstances = new ArrayList<Instance>(base);
-			double result = dbc.calcule(listInstances);
-			sb.append(file.getName() + " : " + result);
+			String result = df.format(dbc.calcule(listInstances));
+			sb.append(file.getName() + " \t " + result + "\n");	
 		}
 		
-		File saida = new File("db_p3_noId.txt");
+		File saida = new File("newDb_teste.txt");
 		FileOutputStream fos = new FileOutputStream(saida);    
         fos.write(sb.toString().getBytes());  
         fos.close();        

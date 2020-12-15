@@ -9,8 +9,7 @@ import weka.core.Instance;
 
 public class DBCalculator {
 
-	public double calcule(List<Instance> instances) {
-
+	public double calcule(List<Instance> instances) {		
 		List<Group> groups = createGroups(instances);
 
 		return this.getDB(groups);
