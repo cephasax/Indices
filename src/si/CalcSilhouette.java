@@ -136,7 +136,7 @@ public class CalcSilhouette{
     }
     silhouette[base.numClasses()] =  silhouette[base.numClasses()] / base.numClasses();
     
-    System.out.println(file.getName());
+    //System.out.println(file.getName());
     //output += file.getName() + "\n";
     
     //Mudança para saída em linhas

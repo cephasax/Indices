@@ -37,16 +37,16 @@ public class DaviesBouldin {
 		//CalcDB cdb = new CalcDB();
 		//Calcular DB p/ os arquivos selecionados
 		for(File file: files) {
-			System.out.println(file.getName());
 			String result = CalcDB.calcularDB(file);
 			sb.append(file.getName() + " \t " + result + "\n");
+			System.out.print(file.getName() + " \t " + result + "\n");
 		}
 		
 		File saida = new File("db_jcx_teste.txt");
 		FileOutputStream fos = new FileOutputStream(saida);    
         fos.write(sb.toString().getBytes());  
         fos.close();        
-        System.out.println("Arquivo " + saida + " salvo!");
+        System.out.println("\nArquivo " + saida + " salvo!");
 	}	
 	
 }

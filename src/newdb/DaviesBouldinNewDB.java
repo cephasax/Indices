@@ -56,21 +56,21 @@ public class DaviesBouldinNewDB {
 		//CalcDB cdb = new CalcDB();
 		//Calcular DB p/ os arquivos selecionados
 		for(File file: files) {
-			System.out.println(file.getName());
 			inFile = new FileInputStream(file);
 			in = new InputStreamReader(inFile);
 			base = new Instances(in);
 			base.setClassIndex(base.numAttributes() - 1);
 			listInstances = new ArrayList<Instance>(base);
 			String result = df.format(dbc.calcule(listInstances));
-			sb.append(file.getName() + " \t " + result + "\n");	
+			sb.append(file.getName() + " \t " + result + "\n");
+			System.out.print(file.getName() + " \t " + result + "\n");
 		}
 		
 		File saida = new File("newDb_teste.txt");
 		FileOutputStream fos = new FileOutputStream(saida);    
         fos.write(sb.toString().getBytes());  
         fos.close();        
-        System.out.println("Arquivo " + saida + " salvo!");
+        System.out.println("\nArquivo " + saida + " salvo!");
 	}	
 	
 }
